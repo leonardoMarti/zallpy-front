@@ -1,0 +1,22 @@
+.project-info {
+  max-width: 700px;
+  margin: 20px auto 0;
+  padding: 20px;
+  background: white;
+  border-radius: 5px;
+  border: 1px solid rgb(151, 137, 137);
+}
+
+.project-info h1 {
+  font-size: 32px;
+}
+
+.project-info p {
+  color: rgb(73, 65, 65);
+  line-height: 24px;
+  margin-top: 5px;
+}
+
+.project-info p a {
+  color: rgb(34, 34, 68);
+}
